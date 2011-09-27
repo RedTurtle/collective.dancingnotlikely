@@ -5,7 +5,7 @@ version = '1.0.0'
 
 setup(name='collective.dancingnotlikely',
       version=version,
-      description="A plugin for collective.dancing that add more elementts to ignore in the composer",
+      description="A plugin for collective.dancing that add more elements to ignore-list in the composer",
       long_description=open("README.txt").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       classifiers=[
