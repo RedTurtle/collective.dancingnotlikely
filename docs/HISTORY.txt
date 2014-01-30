@@ -1,8 +1,14 @@
 Changelog
 =========
 
+1.0.1 (unreleased)
+------------------
+
+- added "viewlet-social-like" to id list [cekk]
+
+
 1.0.0 (2011/10/03)
----------------------
+------------------
 
 - Initial release
 
