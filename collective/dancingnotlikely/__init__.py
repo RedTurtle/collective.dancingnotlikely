@@ -7,4 +7,4 @@ def initialize(context):
 
     plone_html_strip_not_likey.extend([{'id': ['content-history', 'viewlet-social-like']},
                                        {'class': 'documentByLine'},
-                                       ])
+                                       {'type': 'text/javascript'}])
