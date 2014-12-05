@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.0.2 (unreleased)
+1.0.2 (2014-12-05)
 ------------------
 
 - Removed also all javascript scripts [cekk]
